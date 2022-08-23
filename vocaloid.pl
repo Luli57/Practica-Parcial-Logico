@@ -9,8 +9,8 @@ vocaloid(gumi, foreverYoung, 4).
 vocaloid(gumi, tellYourWorld, 5).
 vocaloid(seeU, novemberRain, 6).
 vocaloid(seeU, nigthFever, 5).
-vocaloid(kaito, _, _).
 
+% No se agrega a kaito a la base de conocimiento inicial ya que no sabe cantar ninguna canción por lo tanto no podemos relacionarlo con una canción.
 
 % 1
 
